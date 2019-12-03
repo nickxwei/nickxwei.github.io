@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Nick&#39;s blog</title>
@@ -7,9 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-hans</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Fri, 01 Nov 2019 01:16:58 +0800</lastBuildDate>
     
 	<atom:link href="https://nickxwei.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>untagged</title>
+      <link>https://nickxwei.github.io/tags/untagged/</link>
+      <pubDate>Fri, 01 Nov 2019 01:16:58 +0800</pubDate>
+      
+      <guid>https://nickxwei.github.io/tags/untagged/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

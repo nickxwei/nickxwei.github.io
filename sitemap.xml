@@ -1,17 +1,34 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://nickxwei.github.io/categories/</loc>
+    <loc>https://nickxwei.github.io/posts/first_test/</loc>
+    <lastmod>2019-11-01T01:16:58+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://nickxwei.github.io/</loc>
+    <lastmod>2019-11-01T01:16:58+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nickxwei.github.io/posts/</loc>
+    <lastmod>2019-11-01T01:16:58+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://nickxwei.github.io/tags/</loc>
+    <lastmod>2019-11-01T01:16:58+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nickxwei.github.io/tags/untagged/</loc>
+    <lastmod>2019-11-01T01:16:58+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nickxwei.github.io/categories/</loc>
   </url>
   
 </urlset>
